@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    "experimentalDecorators": true,
     "target": "ES2018",
     "module": "ESNext",
     "moduleResolution": "Node",
@@ -29,5 +30,5 @@
   },
   "exclude": [
     "node_modules"
-  ]
+  ],
 }

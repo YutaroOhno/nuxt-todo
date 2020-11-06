@@ -13,8 +13,10 @@
   },
   "dependencies": {
     "@nuxt/typescript-runtime": "^2.0.0",
+    "@vue/composition-api": "^1.0.0-beta.19",
     "core-js": "^3.6.5",
-    "nuxt": "^2.14.6"
+    "nuxt": "^2.14.6",
+    "nuxt-property-decorator": "^2.8.8"
   },
   "devDependencies": {
     "@nuxt/types": "^2.14.7",
@@ -32,6 +34,7 @@
     "eslint-plugin-prettier": "^3.1.4",
     "jest": "^26.5.0",
     "prettier": "^2.1.2",
-    "vue-jest": "^3.0.4"
+    "vue-jest": "^3.0.4",
+    "vuex-module-decorators": "^1.0.1"
   }
 }
